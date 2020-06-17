@@ -1,1 +1,4 @@
-### Twitter Data Analyis for India-China Faceoff June- 2020
+layout: post
+title: India-China Faceoff, June 2020
+
+### Twitter Data Analyis 
